@@ -1,0 +1,37 @@
+.contentHeader{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    align-items: flex-end;
+    padding:55px 0;
+}
+/* content logo  */
+.homeLogoContent{
+    position: absolute;
+}
+/* logo */
+.logoHome{
+    width: 120px;
+}
+
+/* subtitle home  */
+.subtitleHome{
+    color:#FFC72C;
+    text-shadow: 1px .5px rgb(75, 75, 75);
+}
+
+.loginHome{
+    color:#FFC72C;
+    text-shadow: 1px .5px rgb(75, 75, 75);
+}
+
+.signupHomeLink{
+    color:#FFC72C;
+    text-shadow: 1px .5px rgb(75, 75, 75);
+    text-decoration: none;
+    font-size: 30px;
+}
+.signupHomeLink:hover{
+    color:#DA291C;
+}
